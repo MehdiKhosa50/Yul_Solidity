@@ -1,8 +1,7 @@
-<div align="center">
+<div align="left">
 🚀 Solidity Yul Examples
 
 Dive deep into Ethereum's low-level programming with practical Yul examples! 🔍
-
 </div>
 🌟 What's Inside?
 <br>
