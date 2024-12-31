@@ -1,12 +1,8 @@
 <div align="center">
 🚀 Solidity Yul Examples
-Show Image
-Show Image
-Show Image
 
 Dive deep into Ethereum's low-level programming with practical Yul examples! 🔍
 
-<img src="/api/placeholder/800/400" alt="Yul Examples Banner">
 </div>
 🌟 What's Inside?
 This repository is your gateway to mastering Yul, Ethereum's powerful intermediate language. Whether you're optimizing gas costs or exploring the depths of EVM, these examples will guide your journey through low-level Ethereum programming.
@@ -95,11 +91,7 @@ Quick Start
 bashCopy# Clone the magic ✨
 git clone https://github.com/yourusername/solidity-yul-examples.git
 
-# Install dependencies 📦
-npm install
-
-# Run tests 🧪
-npx hardhat test
+# Run tests on Remix 🧪
 🔬 Learning Path
 <div align="center">
 mermaidCopygraph TD
@@ -146,6 +138,4 @@ This project is licensed under the GPL-3.0 License - see each contract for detai
 <div align="center">
 
 <h3>⭐️ Star us on GitHub — it helps!</h3>
-Show Image
-Show Image
 </div>
